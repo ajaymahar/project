@@ -5,17 +5,13 @@ this is changed from dev branch
 this change is from dev branch
 changes from feat-1 branch
 this change is from my main branch
-changes from hotfix
+changes from hotfix update
 changes on main branch
 changes from main branch from dev too
 making changes from dev again
 changes from main branch
 changes from main changed
 another change from main
-
-
-
-
-
-
 my chagnes from dev
+
+add new one
